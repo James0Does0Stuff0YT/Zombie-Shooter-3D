@@ -7,4 +7,4 @@
 > ### Alpha 1.8:
 > I have updated the ui design a little bit and I added new animations!
 > ### Alpha 1.10:
-> I made some of the animations better and I added health packs that spawn randomly!
+> I made some of the animations better and I added health packs that spawn randomly!(still no music though)
