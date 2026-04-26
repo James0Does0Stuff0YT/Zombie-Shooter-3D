@@ -6,3 +6,5 @@
 > I added a new sky box, There is now a start menu, and there is now an ammo counter!!
 > ### Alpha 1.8:
 > I have updated the ui design a little bit and I added new animations!
+> ### Alpha 1.10:
+> I made some of the animations better and I added health packs that spawn randomly!
