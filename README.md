@@ -8,3 +8,5 @@
 > I have updated the ui design a little bit and I added new animations!
 > ### Alpha 1.10:
 > I made some of the animations better and I added health packs that spawn randomly!(still no music though that's coming soon I promise it's in the game files it's just not loaded in the game!!)
+> ### Alpha 1.16:
+> Added shop and temporarily removed grenades!!(IDK if they were even in the last update but they are gone if they were)
