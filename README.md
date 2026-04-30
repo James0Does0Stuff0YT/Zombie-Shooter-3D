@@ -12,3 +12,5 @@
 > Added shop and temporarily removed grenades!!(IDK if they were even in the last update but they are gone if they were)
 > ### Alpha 1.20:
 > I added music and more shop items!
+> ### Alpha 1.21:
+> Just some bug fixes(I fixed the win)
