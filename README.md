@@ -14,3 +14,5 @@
 > I added music and more shop items!
 > ### Alpha 1.21:
 > Just some bug fixes(I fixed the win)
+> ### Alpha 1.30:
+> Added the SMG, and added difficulty modes!!
