@@ -16,3 +16,5 @@
 > Just some bug fixes(I fixed the win)
 > ### Alpha 1.30:
 > Added the SMG, and added difficulty modes!!
+> ### Alpha 1.35:
+> Added screenshots to the game(f2), bullet casings that fly out of the gun when you shoot it, and finished the SMG.
